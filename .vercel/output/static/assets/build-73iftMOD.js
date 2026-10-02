@@ -1,0 +1,1 @@
+import{t as e}from"./configurator-BFp4HGz5.js";import{F as t,b as n,d as r,g as i,t as a,x as o}from"./index-D5ngJ31Q.js";var s=t();function c(){let{sku:t}=a.useSearch(),c=n(t),l=i.find(e=>e.id===t),u=c??l?.build??r;return(0,s.jsx)(`div`,{className:`py-8 sm:py-10`,children:(0,s.jsx)(e,{initial:u},o(u))})}export{c as component};

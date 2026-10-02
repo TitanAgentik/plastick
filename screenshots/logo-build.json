@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/build",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PLAS/TICK",
+      "hasCanvas": false,
+      "bodyTextLen": 954,
+      "bodyTextHash": "695fbac3cf0c06a8c3500c766c02057d5dfad938a2bd301a650ea251e3dd8b81",
+      "bodyTextPrefix": "PLAS/TICK Build Parts Drops Gallery How it holds up About tank.f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/logo-build.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PLAS/TICK",
+      "hasCanvas": false,
+      "bodyTextLen": 525,
+      "bodyTextHash": "b9e46002ae074d4efc9633bdecfcd090d806a1c16553f27bd1fbcdeb69712beb",
+      "bodyTextPrefix": "PLAS/TICK BUILD YOURS Six shells. Mix the rest. tank.forest.slim",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/logo-build-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/logo-build.json"
+}

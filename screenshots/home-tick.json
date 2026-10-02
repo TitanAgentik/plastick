@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 2348,
+      "bodyTextHash": "39cc6dd691d43522dc143acf138fdba3627cecddf5795a294f6605484540c3a9",
+      "bodyTextPrefix": "Plas/Tick Build Parts Drops Gallery How it holds up About MODULA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-tick.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 2272,
+      "bodyTextHash": "4e588405de903f0d5d4376190b26a42de602c2431b8bf89a97afa433c84fb322",
+      "bodyTextPrefix": "Plas/Tick MODULAR RESIN TANKS One body. Infinite wrists. Mix a s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-tick-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/home-tick.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/parts",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 746,
+      "bodyTextHash": "03fc4f2fd90676524a8525c9569e3842cf822570d65c1f6c922eb3368658cea6",
+      "bodyTextPrefix": "Plas/Tick Build Parts Drops Gallery How it holds up About EXTRA ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/parts.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 698,
+      "bodyTextHash": "50c0cdefc1e4b6ac67ad39fef76ebe7c37d41aab09ea41af618093fd74399a6e",
+      "bodyTextPrefix": "Plas/Tick EXTRA PARTS Same parts. Any color. Faces, bezels, bodi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/parts-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/parts.json"
+}

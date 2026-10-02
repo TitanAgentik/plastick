@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/build",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 856,
+      "bodyTextHash": "6cc8d5e553a836e15ac2bb7acefe4c513e13db3e3917b37a30c17587e1f2d556",
+      "bodyTextPrefix": "Plas/Tick Build Parts Drops Gallery How it holds up About stealt",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-mobile.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 454,
+      "bodyTextHash": "e1d5d608afa5ab6b6c76763eaedafb70e0372c05b046041d684ddb430cb32df9",
+      "bodyTextPrefix": "Plas/Tick stealth.guard.stealth.black 10:10 Face and bezel are a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-mobile-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/build-mobile.json"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/build",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 856,
+      "bodyTextHash": "6cc8d5e553a836e15ac2bb7acefe4c513e13db3e3917b37a30c17587e1f2d556",
+      "bodyTextPrefix": "Plas/Tick Build Parts Drops Gallery How it holds up About stealt",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchView router={{...}} match={{id:\"/build...\", ...}}>\n      <SafeFragment>\n        <SafeFragment fallback={null}>\n          <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n            <SafeFragment fallback={function fallback}>\n              <MatchInnerImpl match={{id:\"/build...\", ...}}>\n                <Lazy>\n                  <BuildPage>\n                    <div className=\"py-8 sm:py-10\">\n                      <Configurator initial={{face:\"stealth\", ...}}>\n                        <div className=\"mx-auto gr...\">\n                          <div>\n                          <div className=\"flex flex-...\">\n                            <div>\n                            <div>\n                            <div className=\"flex items...\">\n                              <Button>\n                              <label className=\"inline-fle...\">\n                                <input\n                                  type=\"color\"\n                                  className=\"size-4 cursor-pointer border-0 bg-transparent p-0\"\n                                  aria-label=\"Pick a color from your fit\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                              ...\n                            ...\n                          ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-before.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 789,
+      "bodyTextHash": "7f316bebd565623a671a207c56b086dfbfb3c95621b43275130506ab126ca0eb",
+      "bodyTextPrefix": "Plas/Tick stealth.guard.stealth.black 76 people built this combo",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-before-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/build-before.json"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RIX",
+      "hasCanvas": false,
+      "bodyTextLen": 1726,
+      "bodyTextHash": "1d877ca0b50de56b836d7cb5d94f992689f1f6087f8ee0ac751d05d54b59fe9c",
+      "bodyTextPrefix": "RIX Build Drops Gallery How it holds up About MODULAR RESIN TANK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RIX",
+      "hasCanvas": false,
+      "bodyTextLen": 1667,
+      "bodyTextHash": "364eee13b2fc36b2fafbad9e5a811c4db0cf4b282fa21c8425088449dfd1a1bb",
+      "bodyTextPrefix": "RIX MODULAR RESIN TANKS One body. Infinite wrists. Mix face, bez",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

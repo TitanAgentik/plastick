@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/build",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 842,
+      "bodyTextHash": "5bd7211dd0c94dcfbf274165afa7915920b4c22ad3d3b6d37d20557e546cb64d",
+      "bodyTextPrefix": "Plas/Tick Build Parts Drops Gallery How it holds up About tank.s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-designs.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plas/Tick",
+      "hasCanvas": false,
+      "bodyTextLen": 439,
+      "bodyTextHash": "68f7dadef3b21ebe4d9ac317ba32546152f7b58884b13789425f91b405a0c69d",
+      "bodyTextPrefix": "Plas/Tick BUILD YOURS Six shells. Mix the rest. tank.stealth.gua",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/build-designs-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/build-designs.json"
+}
